@@ -18,12 +18,19 @@ Here are some ideas to get you started:
 
 # 💛Olá, aqui tem um pouquinho do eu sei fazer! 
 
+<a href = "https://www.instagram.com/carloseduneto">
+  <img src="https://img.shields.io/badge/Instagram-f5257f?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
+<a href = "https://linkedin.com/in/carloseducn">
+  <img src="https://img.shields.io/badge/LinkedIn-0073b2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
 Sou de desenvolvedor de projetos pessoais, amo músicas eletrônicas 🎵, e estou fazendo Sistemas de Informação na [Libertas Faculdades Integradas](https://libertas.edu.br/)
 
-- 💜 Buscnado conhecimentos diários
--  😊
--  🐧
--  🎵 
+- 🎓 2º período
+- 💜 Em constante aprendizado
+- 🍃 Tudo bem leve 
 
 ---
 
@@ -35,3 +42,16 @@ Sou de desenvolvedor de projetos pessoais, amo músicas eletrônicas 🎵, e est
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title= "PHP" width="40" alt="Python"/>
   
 </div>
+
+---
+
+
+<div align = "center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceduarlos&show_icons=true&theme=transparent&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=ceduarlos&show_icons=true&show_icons=true&theme=transparent&count_private=true" />
+</div>
+
+<div align="center">
+  ![Snake animation](https://github.com/ceduarlos/ceduarlos/blob/output/github-contribution-grid-snake.svg)
+</div>
+  
