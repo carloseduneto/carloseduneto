@@ -50,8 +50,4 @@ Sou de desenvolvedor de projetos pessoais, amo músicas eletrônicas 🎵, e est
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceduarlos&show_icons=true&theme=transparent&count_private=true"/>
 <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=ceduarlos&show_icons=true&show_icons=true&theme=transparent&count_private=true" />
 </div>
-
-<div align="center">
-  ![Snake animation](https://github.com/ceduarlos/ceduarlos/blob/output/github-contribution-grid-snake.svg)
-</div>
   
