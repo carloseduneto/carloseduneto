@@ -47,7 +47,7 @@ Sou de desenvolvedor de projetos pessoais, amo músicas eletrônicas 🎵, e est
 
 
 <div align = "center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceduarlos&show_icons=true&theme=transparent&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceduarlos&show_icons=true&theme=calm&count_private=true"/>
 <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=ceduarlos&show_icons=true&show_icons=true&theme=transparent&count_private=true" />
 </div>
   
