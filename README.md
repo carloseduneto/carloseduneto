@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Instagram-f5257f?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
-<a href = "https://linkedin.com/in/carloseducn">
+<a href = "https://linkedin.com/in/carloseduneto">
   <img src="https://img.shields.io/badge/LinkedIn-0073b2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
