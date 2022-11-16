@@ -36,7 +36,6 @@ Sou desenvolvedor de projetos pessoais, amo músicas eletrônicas 🎵, e estou 
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title= "Python" width="40" alt="Python"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title= "Figma" width="40" alt="Python"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title= "HTML5" width="40" alt="Python"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title= "CSS3" width="40" alt="Python"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title= "PHP" width="40" alt="Python"/>
