@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 Sou desenvolvedor de projetos pessoais, amo músicas eletrônicas 🎵, e estou fazendo Sistemas de Informação na [Libertas Faculdades Integradas](https://libertas.edu.br/)
 
-- 🎓 2º período
+- 🎓 3º período
 - 💜 Em constante aprendizado
 - 🍃 Tudo bem leve 
 
