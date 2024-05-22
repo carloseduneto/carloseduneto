@@ -26,12 +26,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/LinkedIn-0073b2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
-🚀 Desenvolvedor de projetos pessoais
-🎓 Estudante de Sistemas de Informação (5º período)
-💻 Apaixonado por tecnologia e inovação
-✨ Atencioso e responsável
-💡 Flexível no pensamento
-🌟 Centrado nas pessoas e em alta empatia
+-🚀 Desenvolvedor de projetos pessoais
+-🎓 Estudante de Sistemas de Informação (5º período)
+-💻 Apaixonado por tecnologia e inovação
+-✨ Atencioso e responsável
+-💡 Flexível no pensamento
+-🌟 Centrado nas pessoas e em alta empatia
 
 ---
 
