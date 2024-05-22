@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <img src="Banner.gif" width="324" align="right"/>
 
-# 💛Olá, aqui tem um pouquinho do que eu sei fazer! 
+# 💛Olá! Explore um pouco das minhas habilidades e experiências!
 
 <a href = "https://www.instagram.com/carloseduneto">
   <img src="https://img.shields.io/badge/Instagram-f5257f?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
@@ -26,11 +26,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/LinkedIn-0073b2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
-Sou desenvolvedor de projetos pessoais, amo músicas eletrônicas 🎵, e estou fazendo Sistemas de Informação na [Libertas Faculdades Integradas](https://libertas.edu.br/)
-
-- 🎓 3º período
-- 💜 Em constante aprendizado
-- 🍃 Tudo bem leve 
+🚀 Desenvolvedor de projetos pessoais
+🎓 Estudante de Sistemas de Informação (5º período)
+💻 Apaixonado por tecnologia e inovação
+✨ Atencioso e responsável
+💡 Flexível no pensamento
+🌟 Centrado nas pessoas e em alta empatia
 
 ---
 
