@@ -45,6 +45,19 @@ Here are some ideas to get you started:
 </div>
 
 ---
+<h1>Projetos recentes</h1>
+  <table>
+    <tr>
+      <td align="center"><img src="https://github.com/carloseduneto/weatherForecast/blob/main/icon.png" width="40px"/></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th><a href="https://carloseduneto.github.io/weatherForecast/">Weather Forecast</a></th>
+      <th>???</th>
+    </tr>
+  </table>
+
+---
 
 
 <div align = "center">
